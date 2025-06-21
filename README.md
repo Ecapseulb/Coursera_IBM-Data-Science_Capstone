@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera_IBM Data Scinece Capstone
 ## There are 8 files for all project
 - Data Collection
 - Data Webscraoing
