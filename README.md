@@ -1,5 +1,5 @@
 # Coursera_IBM Data Scinece Capstone
-## There are 8 files for all project
+## There are 8 Jupyter Notebook files for all project
 - Data Collection
 - Data Webscraoing
 - Data Wrangling
@@ -8,3 +8,5 @@
 - Launch Site (Folium)
 - Dashboard
 - Machine Learning Prediction
+
+## There is a final presentation pdf file
